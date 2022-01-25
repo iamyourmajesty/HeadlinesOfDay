@@ -1,8 +1,10 @@
 package com.example.headlinesofday
 
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import androidx.browser.customtabs.CustomTabsIntent
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.android.volley.AuthFailureError
 import com.android.volley.Request
@@ -62,6 +64,11 @@ class MainActivity : AppCompatActivity(), NewsItemClicked {
         MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
     }
     override fun onItemClicked(item: News) {
+
+
+        val builder =  CustomTabsIntent.Builder();
+        val customTabsIntent = builder.build();
+        customTabsIntent.launchUrl(this, Uri.parse(item.url));
 
     }
 
