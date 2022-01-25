@@ -48,6 +48,8 @@ class NewsViewHolder(itemView:View):RecyclerView.ViewHolder(itemView){
 
 }
 interface NewsItemClicked{
+
+
     fun onItemClicked(item:News)
 
 }
