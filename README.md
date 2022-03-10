@@ -2,7 +2,7 @@
 
 ## *Prince Pandey*
 
-**Birthday wisher** promotes the user to create birthday card.
+**Headlines of the day** promotes the user to create birthday card.
 
 Time spent: **3** hours spent in total
 
