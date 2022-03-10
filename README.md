@@ -1,23 +1,24 @@
-# Meme Share 
+# Headlines Of Day 
 
 ## *Prince Pandey*
 
-**Meme Share** promotes the user to read and share memes from redit.
+**Headlines Of Day** promotes the user to read headlines of that moment going all around the world.
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [x] User can prees next button to see the next meme.
-* [x] The user see loaded meme on screen and he/she can repeat the process for more memes.
-* [x] The user share any meme of his/her choice through any messaging app/website by pressing share button.
+* [x] User can scroll down for further news.
+* [x] The user see different news on scrolling down.
+* [x] The user can read more about the headline by just clicking on that headline.
 
 The following **extensions** are implemented:
 
 * [x] Custom colors selected
 * [x] api call used through volley
+* [ ] Recycle view is implemented
 
 ## Video Walkthrough
 
