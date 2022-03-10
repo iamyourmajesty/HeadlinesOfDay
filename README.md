@@ -1,28 +1,29 @@
-# Birthday Wisher 
+# Meme Share 
 
 ## *Prince Pandey*
 
-**Headlines of the day** promotes the user to create birthday card.
+**Meme Share** promotes the user to read and share memes from redit.
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [x] User can enter his/her name and click on create birthday card button.
-* [x] The user sees the birthday card with an audio.
-* [x] The user sees audio and card with provided name.
+* [x] User can prees next button to see the next meme.
+* [x] The user see loaded meme on screen and he/she can repeat the process for more memes.
+* [x] The user share any meme of his/her choice through any messaging app/website by pressing share button.
 
 The following **extensions** are implemented:
 
 * [x] Custom colors selected
+* [x] api call used through volley
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/DqEpY5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/z6YmE7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
